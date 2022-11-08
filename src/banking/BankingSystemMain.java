@@ -6,6 +6,8 @@ public class BankingSystemMain {
 
 	public static void main(String[] args) {
 
+		System.out.println("1차프로젝트(학원)");
+		
 		//AccountManager 인스턴스 생성
 		AccountManager ac = new AccountManager();
 		AutoSaver as = null;
