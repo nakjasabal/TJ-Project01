@@ -41,7 +41,7 @@ public class AccountManager {
 		System.out.print(", 2.입금");
 		System.out.print(", 3.출금");
 		System.out.println(", 4.계좌정보출력");
-		System.out.print("5.3By3퍼즐[없음]");
+		System.out.print("5.3By3퍼즐");
 		System.out.print(", 6.저장옵션");
 		System.out.println(", 7.종료");
 		System.out.println("=========================================");
